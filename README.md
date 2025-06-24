@@ -1,3 +1,4 @@
+[GitOps_ArgoCD_Project_Report[1].docx](https://github.com/user-attachments/files/20889478/GitOps_ArgoCD_Project_Report.1.docx)
 ![Screenshot 2025-06-24 235122](https://github.com/user-attachments/assets/45aeed15-1b99-4d05-9607-61aab27d544c)
 ![Screenshot 2025-06-24 235040](https://github.com/user-attachments/assets/7643dbec-54a5-4863-b545-e83ec24659a4)
 ![Screenshot 2025-06-24 233632](https://github.com/user-attachments/assets/f8979e58-45bd-455a-89b1-8f261afa7412)
